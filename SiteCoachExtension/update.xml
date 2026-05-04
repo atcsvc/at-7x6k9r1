@@ -1,5 +1,5 @@
 <gupdate xmlns="http://www.google.com/update2/response" protocol="2.0">
   <app appid="mneonokgkmdponhnfoppjgmliapeddhb">
-    <updatecheck codebase="https://yourserver.com/myextension.crx" version="1.0.1" />
+    <updatecheck codebase="https://github.com/atcsvc/at-7x6k9r1/blob/main/SiteCoachExtension/site-coach-extension-Staff.crx" version="1.0.1" />
   </app>
 </gupdate>
